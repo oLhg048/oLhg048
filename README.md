@@ -1,11 +1,60 @@
-### Opa, Buenas! 👋🏼
+# <span>Higor Ferreira <img width="28" height="28" src="https://img.icons8.com/fluency/48/brazil.png" alt="brazil"/></span>
+ **`Desenvolvedor FullStack`**
+
+ Buenas! Me chamo Higor, tenho 21 anos e sou natural de Santa Catarina.</br>
+ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+
 ![Higor GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorDev&show_icons=true&theme=dark)
 
 ### TECNOLOGIAS QUE UTILIZO 👨🏽‍💻
+---
 
-![1Tech](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![2Tech](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![3Tech](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![4Tech](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![5Tech](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS3"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="HTML"
+    title="HTML5"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="PYTHON"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="NODEJS"
+    title="NodeJS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="POSTMAN"
+    title="PostMan API's"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
 
